@@ -1,6 +1,6 @@
 number = int(input("Guess a number"))
 if number > 0:
-    print(f"{number} is postive")
+    print(f"{number} is positive")
 elif number == 0:
     print(f"{number} is zero")
 else:
