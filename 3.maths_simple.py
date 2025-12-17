@@ -1,0 +1,5 @@
+number1 = int(input("Enter a number: "))
+number2 = int(input("Enter another number: "))
+print(f"sum of numbers is {number1 + number2}")
+print(f"subtract of numbers is {number1 - number2}")
+print(f"Multiplication of numbers is {number1 * number2}")
