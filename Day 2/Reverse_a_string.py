@@ -8,5 +8,5 @@ def reverse_string(string_input):
 
     return string_output
 
-
-print(reverse_string(input("Enter a string: ")))
+if __name__ == "__main__":
+    print(reverse_string(input("Enter a string: ")))
