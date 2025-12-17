@@ -1,4 +1,4 @@
-num=1
-while num < 11:
+num=10
+while num > 0:
     print(num)
-    num=num+1
+    num=num-1
