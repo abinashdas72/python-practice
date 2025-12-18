@@ -1,0 +1,6 @@
+INFO Application started
+INFO Connecting to DB
+ERROR Connection timeout
+INFO Retrying
+ERROR DB unreachable
+INFO Application stopped
