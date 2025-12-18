@@ -1,0 +1,9 @@
+env: prod
+region: ap-south-1
+servers:
+  - web01
+  - web02
+  - db01
+settings:
+  debug: false
+  timeout: 30
